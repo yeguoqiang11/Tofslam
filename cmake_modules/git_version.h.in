@@ -1,0 +1,8 @@
+#ifndef @GIT_MODULE@_VERSION_H
+#define @GIT_MODULE@_VERSION_H
+
+namespace @GIT_MODULE@ {
+extern const char *kGitHash;
+}
+
+#endif // GIT_VERSION_H

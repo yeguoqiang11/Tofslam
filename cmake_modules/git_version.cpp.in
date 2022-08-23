@@ -1,0 +1,8 @@
+// git commit id
+// Copyright 2021 Dreame Inc. All rights reserved.
+
+#include "@GIT_MODULE@_version.h"
+
+namespace @GIT_MODULE@ {
+const char *kGitHash = "@GIT_HASH@";
+}
